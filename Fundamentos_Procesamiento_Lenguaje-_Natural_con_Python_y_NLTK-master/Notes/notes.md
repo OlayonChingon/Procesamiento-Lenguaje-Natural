@@ -129,21 +129,9 @@ Procesamiento de texto en otros idiomas: NLTK admite el procesamiento de texto e
 
 **Libreria spaCY**
 
-Algunas características y funcionalidades clave de spaCy son:
 
-Tokenización avanzada: spaCy ofrece una tokenización muy eficiente y precisa, que divide el texto en unidades significativas, como palabras, puntuaciones y símbolos especiales.
+SpaCy es otra popular librería de procesamiento del lenguaje natural (PLN) en Python. Se destaca por su enfoque en la eficiencia, la velocidad y el rendimiento, lo que la convierte en una opción popular para aplicaciones de PLN en producción.
 
-Etiquetado gramatical (POS tagging): spaCy proporciona modelos pre-entrenados para asignar etiquetas gramaticales a las palabras en un texto, como sustantivos, verbos, adjetivos, etc. También es posible entrenar modelos personalizados para tareas específicas.
-
-Análisis de dependencias: spaCy permite analizar las relaciones sintácticas entre las palabras en una oración y construir un árbol de dependencias, que muestra cómo las palabras se relacionan entre sí.
-
-Reconocimiento de entidades nombradas (NER): spaCy puede identificar y clasificar entidades nombradas en un texto, como nombres de personas, organizaciones, ubicaciones, fechas, etc.
-
-Extracción de frases clave: spaCy ofrece herramientas para extraer frases clave o sentencias importantes de un texto utilizando técnicas de análisis de estructuras gramaticales y frecuencia de palabras.
-
-Modelos de lenguaje: spaCy proporciona modelos pre-entrenados en varios idiomas para tareas como POS tagging, NER y análisis de dependencias. También es posible entrenar modelos personalizados en spaCy.
-
-Integración con otras bibliotecas: spaCy se integra bien con otras bibliotecas populares de Python para el PLN, como scikit-learn, Gensim y NLTK, lo que permite combinar diferentes herramientas y funcionalidades en un flujo de trabajo de PLN.
 
 ![roadmap_del_contenido](src/roadmap_del_contenido.png)
 
