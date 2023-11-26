@@ -82,6 +82,12 @@ Actualmente los avances se dividen como sigue:
 
 El aprendizaje de representaciones hace uso de algoritmos basados en redes neuronales (deep learning) multitasking con el concepto matemático de representación, hace uso de la vectorizacion de las palabras y frases para denotar relación semántica.
 
+**Representacion Vectorial de Palabras**
+
+la representación vectorial de palabras, también conocida como word embeddings, es una técnica utilizada en el Procesamiento del Lenguaje Natural (PLN) para representar palabras como vectores numéricos en un espacio multidimensional.
+
+La idea básica detrás de estos modelos es que las palabras que aparecen en contextos similares tienden a tener significados similares.
+
 **Los avances mas recientes en el aprendizaje de representaciones**.
 
 ![avances_nlp_s2](src/avances_nlp_s2.png)
@@ -89,14 +95,55 @@ El aprendizaje de representaciones hace uso de algoritmos basados en redes neuro
 Las redes transformer y reformer son nuevas relativamente (2018)
 
 **Tecnica de Los Mecanismos de Atencion**
+
 Los mecanismos de atención son una técnica utilizada en el Procesamiento del Lenguaje Natural (PLN) para procesar texto y asignar diferentes niveles de importancia o atención a partes específicas del texto. Estos mecanismos se inspiran en el funcionamiento del sistema de atención humano y se utilizan para mejorar el rendimiento de los modelos de PLN en diversas tareas, como traducción automática, generación de texto y comprensión del lenguaje.
 
 En el contexto del procesamiento de texto, los mecanismos de atención permiten que un modelo se enfoque en partes relevantes del texto mientras realiza una tarea específica. En lugar de procesar todo el texto de manera uniforme, el modelo puede asignar diferentes pesos o valores de atención a las diferentes palabras o partes del texto en función de su relevancia para la tarea en cuestión.
 
 
+
 ![mit_article](src/mit_article.png)
 
 ![path_curso](src/path_curso.png)
+
+**Libreria NLTK**
+
+NLTK (Natural Language Toolkit) es una librería popular de Python para el Procesamiento del Lenguaje Natural (PLN). Proporciona una amplia gama de herramientas y recursos que permiten a los desarrolladores trabajar con datos de texto y realizar diversas tareas de PLN.
+
+Algunas de las características y funcionalidades proporcionadas por NLTK incluyen:
+
+
+Preprocesamiento de texto: NLTK ofrece una variedad de funciones para limpiar y preprocesar datos de texto, como tokenización (dividir el texto en palabras o frases), eliminación de stopwords (palabras comunes que no aportan mucho significado), eliminación de puntuación, lematización y stemming (reducción de palabras a su forma base).
+
+
+Modelos y corpus: NLTK incluye una amplia colección de corpus preexistentes, que son conjuntos de datos etiquetados y anotados en diferentes idiomas y dominios. También proporciona herramientas para construir y entrenar modelos de PLN, como modelos de lenguaje, clasificadores de texto y etiquetadores gramaticales.
+
+
+Análisis sintáctico y semántico: NLTK cuenta con herramientas para realizar análisis sintáctico, como etiquetado gramatical (POS tagging), análisis de dependencias y extracción de frases. También ofrece funcionalidades para realizar análisis semántico, como detección de entidades nombradas y resolución de correferencias.
+
+
+WordNet: NLTK incluye una implementación de WordNet, una base de datos léxica que proporciona sinónimos, antónimos y relaciones semánticas entre palabras en inglés. WordNet es útil para tareas como la desambiguación de sentidos y la expansión de consultas de búsqueda.
+
+
+Procesamiento de texto en otros idiomas: NLTK admite el procesamiento de texto en varios idiomas, con recursos y herramientas específicas disponibles para diferentes lenguajes.
+
+**Libreria spaCY**
+
+Algunas características y funcionalidades clave de spaCy son:
+
+Tokenización avanzada: spaCy ofrece una tokenización muy eficiente y precisa, que divide el texto en unidades significativas, como palabras, puntuaciones y símbolos especiales.
+
+Etiquetado gramatical (POS tagging): spaCy proporciona modelos pre-entrenados para asignar etiquetas gramaticales a las palabras en un texto, como sustantivos, verbos, adjetivos, etc. También es posible entrenar modelos personalizados para tareas específicas.
+
+Análisis de dependencias: spaCy permite analizar las relaciones sintácticas entre las palabras en una oración y construir un árbol de dependencias, que muestra cómo las palabras se relacionan entre sí.
+
+Reconocimiento de entidades nombradas (NER): spaCy puede identificar y clasificar entidades nombradas en un texto, como nombres de personas, organizaciones, ubicaciones, fechas, etc.
+
+Extracción de frases clave: spaCy ofrece herramientas para extraer frases clave o sentencias importantes de un texto utilizando técnicas de análisis de estructuras gramaticales y frecuencia de palabras.
+
+Modelos de lenguaje: spaCy proporciona modelos pre-entrenados en varios idiomas para tareas como POS tagging, NER y análisis de dependencias. También es posible entrenar modelos personalizados en spaCy.
+
+Integración con otras bibliotecas: spaCy se integra bien con otras bibliotecas populares de Python para el PLN, como scikit-learn, Gensim y NLTK, lo que permite combinar diferentes herramientas y funcionalidades en un flujo de trabajo de PLN.
 
 ![roadmap_del_contenido](src/roadmap_del_contenido.png)
 
