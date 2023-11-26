@@ -1,4 +1,6 @@
 
+![PLN](src/PLN.png)
+
 # Curso de Fundamentos de Procesamiento de Lenguaje Natural con Python y NLTK
 
 - [Curso de Fundamentos de Procesamiento de Lenguaje Natural con Python y NLTK](#curso-de-fundamentos-de-procesamiento-de-lenguaje-natural-con-python-y-nltk)
@@ -85,6 +87,12 @@ El aprendizaje de representaciones hace uso de algoritmos basados en redes neuro
 ![avances_nlp_s2](src/avances_nlp_s2.png)
 
 Las redes transformer y reformer son nuevas relativamente (2018)
+
+**Tecnica de Los Mecanismos de Atencion**
+Los mecanismos de atención son una técnica utilizada en el Procesamiento del Lenguaje Natural (PLN) para procesar texto y asignar diferentes niveles de importancia o atención a partes específicas del texto. Estos mecanismos se inspiran en el funcionamiento del sistema de atención humano y se utilizan para mejorar el rendimiento de los modelos de PLN en diversas tareas, como traducción automática, generación de texto y comprensión del lenguaje.
+
+En el contexto del procesamiento de texto, los mecanismos de atención permiten que un modelo se enfoque en partes relevantes del texto mientras realiza una tarea específica. En lugar de procesar todo el texto de manera uniforme, el modelo puede asignar diferentes pesos o valores de atención a las diferentes palabras o partes del texto en función de su relevancia para la tarea en cuestión.
+
 
 ![mit_article](src/mit_article.png)
 
