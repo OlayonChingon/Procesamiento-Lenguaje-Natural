@@ -161,9 +161,13 @@ El procesamiento de una cadena de texto necesita una Normalización.
 
 ![lematizacion](src/lematizacion.png)
 
-![lema](src/lema1.JPG)
+![lema1](src/lema1.JPG)
 
+![lema2](src/lema2.JPG)
 
+![lema3](src/lema3.JPG)
+
+![lema4](src/lema4.JPG)
 
 **Segmentación:** Separación en frases (puede ser con las comas), el problema es que esta regla no siempre se aplica y por ello no siempre es están sencillo como parece.
 
