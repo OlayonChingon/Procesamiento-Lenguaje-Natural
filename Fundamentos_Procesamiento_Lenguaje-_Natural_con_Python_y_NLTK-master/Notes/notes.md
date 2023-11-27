@@ -161,6 +161,10 @@ El procesamiento de una cadena de texto necesita una Normalización.
 
 ![lematizacion](src/lematizacion.png)
 
+![Lema](src/Lema1.jpg)
+
+
+
 **Segmentación:** Separación en frases (puede ser con las comas), el problema es que esta regla no siempre se aplica y por ello no siempre es están sencillo como parece.
 
 ![segmentacion](src/segmentacion.png)
