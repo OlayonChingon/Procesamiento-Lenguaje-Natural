@@ -161,7 +161,7 @@ El procesamiento de una cadena de texto necesita una Normalización.
 
 ![lematizacion](src/lematizacion.png)
 
-![lema](src/lema1.jpg)
+![lema](src/lema1.JPG)
 
 
 
