@@ -189,7 +189,7 @@ Ahora que tenemos claro el funnel básico de procesamiento de texto (o normaliza
 
 Esta clase explica brevemente el uso de nltk con Google Collab, en esta sección vamos a importar nltk, descargar un corpus y guardarlo en formato flatten.
 
-![nltk_parte1](src/nltk_parte1.png)
+![image 3](src/3.JPG)
 
 ### Expresiones Regulares
 Las expresiones regulares, también conocidas como regex o regexp, son secuencias de caracteres que definen un patrón de búsqueda. Son ampliamente utilizadas en programación para realizar operaciones de búsqueda, manipulación y validación de cadenas de texto.
@@ -209,11 +209,7 @@ Algunos ejemplos de operaciones comunes que se pueden realizar con expresiones r
 
 Retomando la clase anterior usaremos expresiones regulares con la funcion re.search() para encontrar patrones en de texto contenidos en la variable flatten.
 
-![nltk_parte2](src/nltk_parte2.png)
-
-### Metacaracteres
-Los metacarcteres son patrones de busqueda basicos
-
+![image](src/2.JPG)
 
 Profundiza con el curso de expresiones regulares.
 
