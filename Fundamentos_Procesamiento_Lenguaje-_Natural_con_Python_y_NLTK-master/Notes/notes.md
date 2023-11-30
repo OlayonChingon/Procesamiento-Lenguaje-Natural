@@ -191,17 +191,39 @@ Esta clase explica brevemente el uso de nltk con Google Collab, en esta sección
 
 ![nltk_parte1](src/nltk_parte1.png)
 
+### Expresiones Regulares
+Las expresiones regulares, también conocidas como regex o regexp, son secuencias de caracteres que definen un patrón de búsqueda. Son ampliamente utilizadas en programación para realizar operaciones de búsqueda, manipulación y validación de cadenas de texto.
+
+Las expresiones regulares están compuestas por caracteres literales y metacaracteres. Los caracteres literales representan caracteres que se buscan de manera literal, mientras que los metacaracteres tienen un significado especial y se utilizan para realizar operaciones más complejas.
+
+Algunos ejemplos de operaciones comunes que se pueden realizar con expresiones regulares son:
+
+  - Coincidencia de patrones: Las expresiones regulares se utilizan para buscar patrones específicos dentro de una cadena de texto. Por ejemplo, se puede buscar un número de teléfono con un patrón específico en un texto largo.
+  - Extracción de información: Las expresiones regulares se pueden utilizar para extraer partes específicas de una cadena de texto. Por ejemplo, se puede extraer el dominio de un correo electrónico o el código postal de una dirección.
+  - Validación de formatos: Las expresiones regulares permiten validar si una cadena de texto cumple con un formato específico. Por ejemplo, se puede verificar si una dirección de correo electrónico tiene el formato adecuado.
+   - Sustitución de texto: Las expresiones regulares se pueden utilizar para reemplazar partes de una cadena de texto con otro texto. Por ejemplo, se puede reemplazar todas las ocurrencias de una palabra por otra palabra en un documento.
+
+![image](src/1.JPG)
+
 ### Clase 5 Palabras, textos y vocabularios
 
 Retomando la clase anterior usaremos expresiones regulares con la funcion re.search() para encontrar patrones en de texto contenidos en la variable flatten.
 
 ![nltk_parte2](src/nltk_parte2.png)
 
+### Metacaracteres
+Los metacarcteres son patrones de busqueda basicos
+
+
 Profundiza con el curso de expresiones regulares.
 
 ### Clase 6 Tokenizacion con Expresiones Regulares
 
 Esta clase usa regex para Tokenizar frases simples, y nltk.regexp_tokenize(texto, pattern) para enfrentar textos mas complejos.
+
+#### Expresiones Regulares
+Son ptranes para buscar cadenas de texto en un corpus
+
 
 ![nltk_parte3](src/nltk_parte3.png)
 
