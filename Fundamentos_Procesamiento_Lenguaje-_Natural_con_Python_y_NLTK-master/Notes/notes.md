@@ -218,7 +218,7 @@ Profundiza con el curso de expresiones regulares.
 Esta clase usa regex para Tokenizar frases simples, y nltk.regexp_tokenize(texto, pattern) para enfrentar textos mas complejos.
 
 #### Expresiones Regulares
-Son ptranes para buscar cadenas de texto en un corpus
+Son patrones para buscar cadenas de texto en un corpus
 
 
 ![image 4](src/4.JPG)
