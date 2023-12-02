@@ -234,7 +234,11 @@ Para este ejercicio utilizaremos un nuevo notebook, usaremos el corpus books el 
 
 Haremos operaciones sencillas y obtendremos la riqueza léxica del texto.
 
-![text_statistics_1](src/text_statistics_1.png)
+![image 10](src/10.JPG)
+![image 11](src/11.JPG)
+![image 12](src/12.JPG)
+![image 13](src/13.JPG)
+![image 14](src/14.JPG)
 
 ### Clase 8 Distribuciónes de frecuencia de palabras
 
