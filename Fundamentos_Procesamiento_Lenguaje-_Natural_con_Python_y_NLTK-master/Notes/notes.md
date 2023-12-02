@@ -221,7 +221,12 @@ Esta clase usa regex para Tokenizar frases simples, y nltk.regexp_tokenize(texto
 Son ptranes para buscar cadenas de texto en un corpus
 
 
-![nltk_parte3](src/nltk_parte3.png)
+![image 4](src/4.JPG)
+
+![image 5](src/5.JPG)
+
+![image 6](src/6.JPG)
+
 
 ### Clase 7 Estadisticas basicas del lenguaje
 
