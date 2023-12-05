@@ -3,6 +3,20 @@
 
 # Curso de Fundamentos de Procesamiento de Lenguaje Natural con Python y NLTK
 
+Recordatorio principales tipos de datos en Python:
+
+1-Listas: Secuencia ordenada y modificable de elementos, representada con corchetes []. Permite duplicados y acceso mediante índices.
+
+2-Tuplas: Secuencia ordenada e inmutable de elementos, representada con paréntesis (). No se pueden modificar después de la creación.
+
+3-Conjuntos: Colección desordenada de elementos únicos, representada con llaves {}. No permite duplicados.
+
+4-Diccionarios: Colección de pares clave-valor, representada con llaves {}. Permite acceso a los valores mediante claves únicas.
+
+5-Cadenas de texto: Secuencia inmutable de caracteres, representada con comillas simples o dobles. Se utilizan para almacenar texto.
+
+
+
 - [Curso de Fundamentos de Procesamiento de Lenguaje Natural con Python y NLTK](#curso-de-fundamentos-de-procesamiento-de-lenguaje-natural-con-python-y-nltk)
   - [Modulo 1 Introducción al Procesamiento de Lenguaje Natural](#modulo-1-introducción-al-procesamiento-de-lenguaje-natural)
     - [Clase 1 Introducción al Procesamiento de Lenguaje Natural](#clase-1-introducción-al-procesamiento-de-lenguaje-natural)
@@ -203,13 +217,13 @@ Algunos ejemplos de operaciones comunes que se pueden realizar con expresiones r
   - Validación de formatos: Las expresiones regulares permiten validar si una cadena de texto cumple con un formato específico. Por ejemplo, se puede verificar si una dirección de correo electrónico tiene el formato adecuado.
    - Sustitución de texto: Las expresiones regulares se pueden utilizar para reemplazar partes de una cadena de texto con otro texto. Por ejemplo, se puede reemplazar todas las ocurrencias de una palabra por otra palabra en un documento.
 
-![image](src/1.JPG)
+![image 1](src/1.JPG)
 
 ### Clase 5 Palabras, textos y vocabularios
 
 Retomando la clase anterior usaremos expresiones regulares con la funcion re.search() para encontrar patrones en de texto contenidos en la variable flatten.
 
-![image](src/2.JPG)
+![image 2](src/2.JPG)
 
 Profundiza con el curso de expresiones regulares.
 
@@ -244,7 +258,15 @@ Haremos operaciones sencillas y obtendremos la riqueza léxica del texto.
 
 En esta clase vamos a calcular estadísticas basadas en la frecuencia de aparición o numero de aparición de palabras en un texto, cuando hacemos esta operación sobre todas las palabras que componen el vocabulario de un texto construimos una distribución de probabilidad de esas palabras dentro del texto.
 
-![text_statistics_2](src/text_statistics_2.png)
+![image 15](src/15.JPG)
+![image 16](src/16.JPG)
+![image 17](src/17.JPG)
+![image 18](src/18.JPG)
+![image 19](src/19.JPG)
+![image 20](src/20.JPG)
+![image 21](src/21.JPG)
+![image 22](src/22.JPG)
+![image 23](src/23.JPG)
 
 ### Clase 9 Refinamiento y visualización de cuerpos de texto
 
