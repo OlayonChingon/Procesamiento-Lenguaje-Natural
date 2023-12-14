@@ -248,31 +248,33 @@ Para este ejercicio utilizaremos un nuevo notebook, usaremos el corpus books el 
 
 Haremos operaciones sencillas y obtendremos la riqueza léxica del texto.
 
-![image 10](src/10.JPG)
-![image 11](src/11.JPG)
-![image 12](src/12.JPG)
-![image 13](src/13.JPG)
-![image 14](src/14.JPG)
-
-### Clase 8 Distribuciónes de frecuencia de palabras
-
-En esta clase vamos a calcular estadísticas basadas en la frecuencia de aparición o numero de aparición de palabras en un texto, cuando hacemos esta operación sobre todas las palabras que componen el vocabulario de un texto construimos una distribución de probabilidad de esas palabras dentro del texto.
-
 ![image 15](src/15.JPG)
 ![image 16](src/16.JPG)
 ![image 17](src/17.JPG)
 ![image 18](src/18.JPG)
 ![image 19](src/19.JPG)
+![image 19_1](src/19_1.JPG)
+![image 19_2](src/19_2.JPG)
 ![image 20](src/20.JPG)
 ![image 21](src/21.JPG)
+
+### Clase 8 Distribuciónes de frecuencia de palabras
+
+En esta clase vamos a calcular estadísticas basadas en la frecuencia de aparición o numero de aparición de palabras en un texto, cuando hacemos esta operación sobre todas las palabras que componen el vocabulario de un texto construimos una distribución de probabilidad de esas palabras dentro del texto.
+
 ![image 22](src/22.JPG)
 ![image 23](src/23.JPG)
+![image 24](src/24.JPG)
+![image 25](src/25.JPG)
 
 ### Clase 9 Refinamiento y visualización de cuerpos de texto
 
 Continuaremos trabajando con distribuciones de frecuencia de aparición de palabras en un texto.
 
-![refinamiento_y_visualizacion](src/refinamiento_y_visualizacion.png)
+![image 26](src/26.JPG)
+![image 27](src/27.JPG)
+![image 28](src/28.JPG)
+![image 29](src/29.JPG)
 
 ### Clase 10 N-gramas y Colocaciones del lenguaje
 
@@ -302,7 +304,13 @@ En este ejemplo puedes observar en el recuadro dos sentencias que significan alg
 
 En esta clase aplicamos los conceptos anteriores n-gramas y colocaciones, aquí vamos a ver que estadisticamente podemos identificar estas colocaciones por medio del uso de n-gramas, ya que una colocación no es necesariamente una palabra exclusiva sino un conjunto de palabras  sino 2,3, o más que también reflejan la influencia cultural en ciertos usos del lenguaje.
 
-![language_statistics_1](src/language_statistics_1.png)
+![image 30](src/30.JPG)
+![image 31](src/31.JPG)
+![image 32](src/32.JPG)
+![image 33](src/33.JPG)
+![image 34](src/34.JPG)
+![image 35](src/35.JPG)
+![image 36](src/36.JPG)
 
 Hecho esto ya tenemos los conocimientos para la obtención y calculo de n-gramas usando las herramientas de nltk, la idea de trabajar con estas estructuras para nuestro caso inicial es identificar colocaciones de lenguaje aplicando métricas basadas en los n-gramas, pero esto tiene muchas aplicaciones, en general los n-gramas son la base de muchos algoritmos de procesamiento de lenguaje natural que tiene aplicaciones diversas en el mundo real, por ejemplo clasificación de texto, del habla, traducción, algoritmos de aprendizaje de embebimiento para vectores de palabras o de frases y esto tiene alcance incluso en el area de deep learning, estas tareas serán rutinarias y la base antes de construir algoritmos más sofisticados, por ejemplo si quieres construir una nube de palabras de lo que una persona dice sobre una marca o una persona los n-gramas son la solución más sencilla a la hora de implementar esto.
 
@@ -310,7 +318,12 @@ Hecho esto ya tenemos los conocimientos para la obtención y calculo de n-gramas
 
 En esta clase trabajaremos con los n-gramas calculados anteriormente, introduciremos estadística y métricas nuevas para calcular las colocaciones, recordemos que estas son ocurrencias de **palabras** en textos o conversaciones que tienen **frecuencias inusualmente altas**, existe evidencia estadística y científica de la alta frecuencia de ocurrencia de las colocaciones, lo que nos permitirá crear algoritmos para detectar estas.
 
-![language_statistics_2](src/language_statistics_2.png)
+![image 37](src/37.JPG)
+![image 38](src/38.JPG)
+![image 39](src/39.JPG)
+![image 40](src/40.JPG)
+![image 41](src/41.JPG)
+
 
 El DataFrame inferimos que los valores mas cercanos a cero son aquellos que son propensos a ser Colocaciones de lenguaje.
 
@@ -319,12 +332,20 @@ El DataFrame inferimos que los valores mas cercanos a cero son aquellos que son 
 En esta clase analizamos a detalle los resultados del DataFrame
 
 ![language_statistics_3](src/language_statistics_3.png)
+![image 42](src/42.JPG)
 
 ### Clase 14 Filtros y colocaciones en NLTK
 
 En la clase anterior trabajamos en una visualización interactiva que nos permitía identificar hasta cierto punto bi-gramas que tenían una alta probabilidad de ser colocaciones aquí vamos a ver como este proceso se puede realizar con NLTK sin el uso de visualizaciones y de una forma mucho más rápida.
 
-![language_statistics_4](src/language_statistics_4.png)
+![image 43](src/43.JPG)
+![image 44](src/44.JPG)
+![image 45](src/45.JPG)
+![image 46](src/46.JPG)
+![image 47](src/47.JPG)
+![image 48](src/48.JPG)
+![image 49](src/49.JPG)
+![image 50](src/50.JPG)
 
 ### Clase 15 Introduccion a los recursos lexicos
 
