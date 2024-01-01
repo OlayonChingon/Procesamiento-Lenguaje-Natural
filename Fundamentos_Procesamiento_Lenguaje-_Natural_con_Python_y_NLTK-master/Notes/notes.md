@@ -120,7 +120,7 @@ En el contexto del procesamiento de texto, los mecanismos de atención permiten 
 
 ![path_curso](src/path_curso.png)
 
-**Libreria NLTK**
+**LIBRERIA NLTK**
 
 NLTK (Natural Language Toolkit) es una librería popular de Python para el Procesamiento del Lenguaje Natural (PLN). Proporciona una amplia gama de herramientas y recursos que permiten a los desarrolladores trabajar con datos de texto y realizar diversas tareas de PLN.
 
@@ -141,7 +141,7 @@ WordNet: NLTK incluye una implementación de WordNet, una base de datos léxica 
 
 Procesamiento de texto en otros idiomas: NLTK admite el procesamiento de texto en varios idiomas, con recursos y herramientas específicas disponibles para diferentes lenguajes.
 
-**Libreria spaCY**
+**LIBRERIA spaCY**
 
 
 SpaCy es otra popular librería de procesamiento del lenguaje natural (PLN) en Python. Se destaca por su enfoque en la eficiencia, la velocidad y el rendimiento, lo que la convierte en una opción popular para aplicaciones de PLN en producción.
