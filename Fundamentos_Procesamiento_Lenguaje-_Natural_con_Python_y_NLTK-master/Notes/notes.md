@@ -371,11 +371,13 @@ Dependiendo del contexto en que esa palabra sea usada, y esa información se pue
 
 En esta clase trabajaremos sobre Google Collab, y vamos a trabajar en mas detalle sobre recursos lexicos, sus tipos y casos de uso.
 
-![lexical_resources_1](src/lexical_resources_1.png)
+![image 52](src/52.JPG)
+
+![image 53](src/53.JPG)
 
 ### Clase 17 NLTK para traduccion de palabras
 
-![lexical_resources_2](src/lexical_resources_2.png)
+![image 54](src/54.JPG)
 
 ### Clase 18 Introduccion a WordNet
 
@@ -389,25 +391,65 @@ En esta clase continuamos trabajando con recursos lexicos como herramientas de a
 
 ### Clase 19 Explorando WordNet
 
-![explorando_wordnet](src/explorando_wordnet.png)
+![image 55](src/55.JPG)
+
+![image 56](src/56.JPG)
+
+![image 57](src/57.JPG)
+
+![image 58](src/58.JPG)
+
+![image 59](src/59.JPG)
+
+![image 60](src/60.JPG)
+
+![image 61](src/61.JPG)
+
+![image 62](src/62.JPG)
 
 ### Clase 20 Similitud Semantica con WordNet
 
 Ahora que hemos aprendido los recursos de este lexicon tan importante que es wordnet vamos a construir una manera sencilla para medir distancia basada en similitud semantica con base en los synsets o conceptos de sinónimos que están asociados a esas palabra a las cuales yo quiero calcularles esa medida de distancia.
 
-![similitud_semantica](src/similitud_semantica.png)
+![image 63](src/63.JPG)
 
+![image 64](src/64.JPG)
+ 
 ### Clase 21 Procesamiento de texto plano desde Web
 
 Hasta este punto utilizamos textos estructurados, ahora utilizaremos nuevas herramientas extraer texto plano de la web y pre-procesarlo antes de aplicar todo lo aprendido previamente.
 
-![texto_web](src/texto_web.png)
+![image 65](src/65.JPG)
+
+![image 66](src/66.JPG)
+
+![image 67](src/67.JPG)
+
+![image 68](src/68.JPG)
+
+![image 69](src/69.JPG)
+
+![image 70](src/70.JPG)
+
+![image 71](src/71.JPG)
+
+![image 72](src/72.JPG)
+
+![image 73](src/73.JPG)
+
+![image 74](src/74.JPG)
+
+![image 75](src/75.JPG)
+
+![image 76](src/76.JPG)
+
+![image 77](src/77.JPG)
 
 ### Clase 22 Usando codigo estructurado: conexión de Drive a Google Colab
 
 En esta clase vamos a enfocarnos en el codigo, escribiremos funciones estructuradas y un pipeline completo en Collab.
 
-![codigo_estructurado](src/codigo_estructurado.png)
+![image 78](src/78.JPG)
 
 ### Clase 23 Usando codigo estructurado: Funciones externas
 
@@ -423,7 +465,15 @@ def get_text(file):
 
 Y posterior se importará en collab
 
-![codigo_estructurado_2](src/codigo_estructurado_2.png)
+![image 79](src/79.JPG)
+
+![image 80](src/80.JPG)
+
+![image 81](src/81.JPG)
+
+![image 82](src/82.JPG)
+
+![image 83](src/83.JPG)
 
 ### Recursos adicionales
 
