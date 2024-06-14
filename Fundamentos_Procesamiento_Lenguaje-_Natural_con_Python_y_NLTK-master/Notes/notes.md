@@ -203,7 +203,13 @@ Ahora que tenemos claro el funnel básico de procesamiento de texto (o normaliza
 
 Esta clase explica brevemente el uso de nltk con Google Collab, en esta sección vamos a importar nltk, descargar un corpus y guardarlo en formato flatten.
 
-![image 3](src/3.JPG)
+![image 3](src/3.png)
+
+Al imprimir el corpus vemos que inicia con dos corchetes, por lo que es la lista de lista dicha. El segundo corchete indica el comienzo de la primera lista (6030 en total), cada elemento de esta lista es una palabra o signo ortografico que contiene el titulo.
+
+![image 3_1](src/3_1.png)
+
+Aca ya el corpus se nos presenta guardado en formato de flaten. Es decir una sola lista cuyos elementos son las palabras y signos ortograficos de TODO el corpus
 
 ### Expresiones Regulares
 Las expresiones regulares, también conocidas como regex o regexp, son secuencias de caracteres que definen un patrón de búsqueda. Son ampliamente utilizadas en programación para realizar operaciones de búsqueda, manipulación y validación de cadenas de texto.
