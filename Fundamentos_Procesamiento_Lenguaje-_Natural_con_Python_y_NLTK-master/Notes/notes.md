@@ -223,7 +223,7 @@ Algunos ejemplos de operaciones comunes que se pueden realizar con expresiones r
   - Validación de formatos: Las expresiones regulares permiten validar si una cadena de texto cumple con un formato específico. Por ejemplo, se puede verificar si una dirección de correo electrónico tiene el formato adecuado.
    - Sustitución de texto: Las expresiones regulares se pueden utilizar para reemplazar partes de una cadena de texto con otro texto. Por ejemplo, se puede reemplazar todas las ocurrencias de una palabra por otra palabra en un documento.
 
-![image 1](src/1.JPG)
+
 
 ### Clase 5 Palabras, textos y vocabularios
 
@@ -232,8 +232,6 @@ Retomando la clase anterior usaremos expresiones regulares con la funcion re.sea
 ![image 5](src/5.png)
 
 ![image 5_1](src/5_1.png)
-
-![image 5_2](src/5_2.png)
 
 Profundiza con el curso de expresiones regulares.
 
