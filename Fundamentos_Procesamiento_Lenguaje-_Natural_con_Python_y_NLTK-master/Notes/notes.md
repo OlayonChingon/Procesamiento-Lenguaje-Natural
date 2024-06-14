@@ -236,6 +236,7 @@ Retomando la clase anterior usaremos expresiones regulares con la funcion re.sea
 ![image 5_2](src/5_2.png)
 
 ![image 5_3](src/5_3.png)
+
 Profundiza con el curso de expresiones regulares.
 
 ### Clase 6 Tokenizacion con Expresiones Regulares
