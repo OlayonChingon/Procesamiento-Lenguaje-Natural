@@ -249,11 +249,17 @@ Esta clase usa regex para Tokenizar frases simples, y nltk.regexp_tokenize(texto
 
 ![image 6](src/6.png)
 
+Corremos el cursor para ver mas elementos de la lista. Vemos como al producirse el cambio de oracion toma en cuenta la tabulacion
+
 ![image 6_0](src/6_0.png)
 
 ![image 6_1](src/6_1.png)
 
-![image 6_2](src/6.png)
+![image 6_2](src/6_2.png)
+
+![image 6_3](src/6_3.png)
+
+![image 6_4](src/6_4.png)
 
 
 ### Clase 7 Estadisticas basicas del lenguaje
