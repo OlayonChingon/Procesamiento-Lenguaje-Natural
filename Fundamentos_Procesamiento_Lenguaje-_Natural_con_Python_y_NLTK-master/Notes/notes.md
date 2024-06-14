@@ -233,14 +233,15 @@ Retomando la clase anterior usaremos expresiones regulares con la funcion re.sea
 
 ![image 5_1](src/5_1.png)
 
+![image 5_2](src/5_2.png)
+
+![image 5_3](src/5_3.png)
 Profundiza con el curso de expresiones regulares.
 
 ### Clase 6 Tokenizacion con Expresiones Regulares
 
 Esta clase usa regex para Tokenizar frases simples, y nltk.regexp_tokenize(texto, pattern) para enfrentar textos mas complejos.
 
-#### Expresiones Regulares
-Son patrones para buscar cadenas de texto en un corpus
 
 
 ![image 4](src/4.JPG)
