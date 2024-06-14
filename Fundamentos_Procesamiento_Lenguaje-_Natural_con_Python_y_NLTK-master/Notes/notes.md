@@ -205,7 +205,7 @@ Esta clase explica brevemente el uso de nltk con Google Collab, en esta sección
 
 ![image 3](src/3.png)
 
-Al imprimir el corpus vemos que inicia con dos corchetes, por lo que es la lista de lista dicha. El segundo corchete indica el comienzo de la primera lista (6030 en total), cada elemento de esta lista es una palabra o signo ortografico que contiene el titulo.
+Al imprimir el corpus vemos que inicia con dos corchetes, por lo que es la lista de lista antedicha, el segundo corchete indica el comienzo de la primera lista (6030 en total), cada elemento de esta lista es una palabra o signo ortografico que contiene el titulo.
 
 ![image 3_1](src/3_1.png)
 
@@ -229,7 +229,11 @@ Algunos ejemplos de operaciones comunes que se pueden realizar con expresiones r
 
 Retomando la clase anterior usaremos expresiones regulares con la funcion re.search() para encontrar patrones en de texto contenidos en la variable flatten.
 
-![image 2](src/2.JPG)
+![image 5](src/5.png)
+
+![image 5_1](src/5_1.png)
+
+![image 5_2](src/5_2.png)
 
 Profundiza con el curso de expresiones regulares.
 
