@@ -259,8 +259,6 @@ Corremos el cursor para ver mas elementos de la lista. Vemos como al producirse 
 
 ![image 6_3](src/6_3.png)
 
-![image 6_4](src/6_4.png)
-
 
 ### Clase 7 Estadisticas basicas del lenguaje
 
