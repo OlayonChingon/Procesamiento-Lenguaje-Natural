@@ -259,6 +259,16 @@ Corremos el cursor para ver mas elementos de la lista. Vemos como al producirse 
 
 ![image 6_3](src/6_3.png)
 
+### Derivacion y Lematizacion
+
+![image 6_4](src/6_4.png)
+
+![image 6_5](src/6_5.png)
+
+![image 6_6](src/6_6.png)
+
+![image 6_7](src/6_7.png)
+
 
 ### Clase 7 Estadisticas basicas del lenguaje
 
