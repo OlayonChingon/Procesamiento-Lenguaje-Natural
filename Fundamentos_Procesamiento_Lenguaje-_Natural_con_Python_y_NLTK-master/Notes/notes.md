@@ -225,7 +225,7 @@ Algunos ejemplos de operaciones comunes que se pueden realizar con expresiones r
 
 
 
-### Clase 5 Palabras, textos y vocabularios
+### Clase 5 Palabras, textos y vocabularios (Funcion re.search para busqueda de patrone)
 
 Retomando la clase anterior usaremos expresiones regulares con la funcion re.search() para encontrar patrones en de texto contenidos en la variable flatten.
 
@@ -241,7 +241,7 @@ Retomando la clase anterior usaremos expresiones regulares con la funcion re.sea
 
 Profundiza con el curso de expresiones regulares.
 
-### Clase 6 Tokenizacion con Expresiones Regulares
+### Clase 6 Tokenizacion con Expresiones Regulares (Funcion re.split )
 
 Esta clase usa regex para Tokenizar frases simples, y nltk.regexp_tokenize(texto, pattern) para enfrentar textos mas complejos.
 
