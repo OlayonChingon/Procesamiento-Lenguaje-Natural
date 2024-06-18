@@ -283,22 +283,33 @@ Haremos operaciones sencillas y obtendremos la riqueza léxica del texto.
 ![image 18](src/18.JPG)
 ![image 19](src/19.JPG)
 ![image 19_1](src/19_1.JPG)
-![image 19_2](src/19_2.JPG)
+![image 19_2](src/19_2.png)
 ![image 20](src/20.JPG)
+![image 20_1](src/20_1.png)
 ![image 21](src/21.JPG)
+
+
 
 ### Clase 8 Distribuciónes de frecuencia de palabras
 
 En esta clase vamos a calcular estadísticas basadas en la frecuencia de aparición o numero de aparición de palabras en un texto, cuando hacemos esta operación sobre todas las palabras que componen el vocabulario de un texto construimos una distribución de probabilidad de esas palabras dentro del texto.
 
-![image 22](src/22.JPG)
-![image 23](src/23.JPG)
-![image 24](src/24.JPG)
-![image 25](src/25.JPG)
+![image 22](src/22.png)
+![image 23](src/23.png)
+![image 24](src/24.png)
+![image 25](src/25.png)
+
+con dir(fdist) vemos los atributos del objeto fdist perteneciente a la clase FreqDist
+![image 25_1](src/25_1.png)
+
+Ver en este repositorio Fdist_matplotlib.ipynb  para hacer grafico en subplt de 1 fila y dos columnas
 
 ### Clase 9 Refinamiento y visualización de cuerpos de texto
 
 Continuaremos trabajando con distribuciones de frecuencia de aparición de palabras en un texto.
+
+Al tokeneizar el texto solo incluiremos palabara con determinada cantidad de caracteres 
+>1 , >2, >3 etc....
 
 ![image 26](src/26.JPG)
 ![image 27](src/27.JPG)
