@@ -306,7 +306,15 @@ con dir(fdist) vemos los atributos del objeto fdist perteneciente a la clase Fre
 
 ![image 25_3](src/25_3.png)
 
-![image 25_4](src/25_4.png)
+
+Ver en este repositorio Fdist_matplotlib.ipynb  para hacer grafico en subplt de 1 fila y dos columnas
+
+### Clase 9 Refinamiento y visualización de cuerpos de texto
+
+Continuaremos trabajando con distribuciones de frecuencia de aparición de palabras en un texto.
+
+Al tokeneizar el texto solo incluiremos palabara con determinada cantidad de caracteres 
+>1 , >2, >3 etc....
 
 ![image 25_5](src/25_5.png)
 
@@ -325,19 +333,8 @@ con dir(fdist) vemos los atributos del objeto fdist perteneciente a la clase Fre
 ![image 25_12](src/25_12.png)
 
 
-Ver en este repositorio Fdist_matplotlib.ipynb  para hacer grafico en subplt de 1 fila y dos columnas
 
-### Clase 9 Refinamiento y visualización de cuerpos de texto
 
-Continuaremos trabajando con distribuciones de frecuencia de aparición de palabras en un texto.
-
-Al tokeneizar el texto solo incluiremos palabara con determinada cantidad de caracteres 
->1 , >2, >3 etc....
-
-![image 26](src/26.JPG)
-![image 27](src/27.JPG)
-![image 28](src/28.JPG)
-![image 29](src/29.JPG)
 
 ### Clase 10 N-gramas y Colocaciones del lenguaje
 
