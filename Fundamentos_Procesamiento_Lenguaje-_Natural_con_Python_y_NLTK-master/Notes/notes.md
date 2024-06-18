@@ -302,6 +302,29 @@ En esta clase vamos a calcular estadísticas basadas en la frecuencia de aparici
 con dir(fdist) vemos los atributos del objeto fdist perteneciente a la clase FreqDist
 ![image 25_1](src/25_1.png)
 
+![image 25_2](src/25_2.png)
+
+![image 25_3](src/25_3.png)
+
+![image 25_4](src/25_4.png)
+
+![image 25_5](src/25_5.png)
+
+![image 25_6](src/25_6.png)
+
+![image 25_7](src/25_7.png)
+
+![image 25_8](src/25_8.png)
+
+![image 25_9](src/25_9.png)
+
+![image 25_10](src/25_10.png)
+
+![image 25_11](src/25_11.png)
+
+![image 25_12](src/25_12.png)
+
+
 Ver en este repositorio Fdist_matplotlib.ipynb  para hacer grafico en subplt de 1 fila y dos columnas
 
 ### Clase 9 Refinamiento y visualización de cuerpos de texto
